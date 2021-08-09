@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PianoTutor</string>
+    <string name="img_description">Random Pianokeyboard</string>
+    <string name="txf_answer">Write your Answer here!</string>
+    <string name="lbl_answer">Your Answer:</string>
+    <string name="lbl_answer_correct">Your Answer: Right</string>
+    <string name="lbl_answer_wrong">Your Answer: Wrong</string>
+    <string name="btn_check">Check</string>
+    <string name="btn_next">Next</string>
+</resources>
