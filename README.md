@@ -3,7 +3,7 @@ A small Piano quiz app to learn reading sheetmusic and the corresponding keys on
 
 the goal in this project was to learn something when traveling with the bus or train and to add new questions easily. The last point is done by inserting new images for questions to the Resources-Folder with a specific name-pattern. The Program then automatically reads in all images of this folder and tries to create quesions with it. This system is good enough for simple image-based questions. A more general solution would be to use json files. I did this in my MusicQuiz-App.
 
-### Keypoints for SnakeAI
+### Keypoints
 - Questionmanagement
 - Add new questions easily
 - UI Layout
